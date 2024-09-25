@@ -9,8 +9,8 @@
   ](https://gitlab.com/ThiagoSchwantes) (usado para manter exercicios e atividades da faculdade que não são projetos)
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dracula&hide=issues&show=prs_merged&locale=pt-br" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dracula&locale=pt-br&langs_count=6" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dracula&hide=issues&show=prs_merged&locale=pt-br" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dracula&locale=pt-br&langs_count=6" />
 </div>
 
 <div style="display: inline_block" align="center">
