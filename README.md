@@ -3,8 +3,7 @@
 - 🔭 Procurando um Estágio :)
 - 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📫 e-mail pra contato: thiagodemoura.sw@gmail.com
-- GitLab: [ThiagoSchwantes<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />](
-  https://gitlab.com/ThiagoSchwantes) (usado para manter exercicios e atividades da faculdade que não são projetos)
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> GitLab: [ThiagoSchwantes](https://gitlab.com/ThiagoSchwantes) (usado para manter exercicios e atividades da faculdade que não são projetos)
 
 <div align="center">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dracula&hide=issues&show=prs_merged&locale=pt-br" />
