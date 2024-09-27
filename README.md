@@ -6,8 +6,8 @@
 - <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /> GitLab: [ThiagoSchwantes](https://gitlab.com/ThiagoSchwantes) (usado para manter exercicios e atividades da faculdade que não são projetos)
 
 <div align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dracula&hide=issues&show=prs_merged&locale=pt-br" />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dracula&locale=pt-br&langs_count=6" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dark&hide=issues&show=prs_merged&locale=pt-br&custom_title=ThiagoSchwantes" />
+  <img height=180 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dark&locale=pt-br&langs_count=6&custom_title=Linguagens+mais+usadas+-+GitHub" />
 </div>
 
 <div style="display: inline_block" align="center">
