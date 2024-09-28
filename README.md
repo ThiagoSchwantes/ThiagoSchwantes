@@ -25,6 +25,6 @@
 </p>
 
 <div align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dark&hide=issues&show=prs_merged&locale=pt-br&custom_title=ThiagoSchwantes" />
-  <img height=180 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dark&locale=pt-br&langs_count=6&custom_title=Linguagens+mais+usadas+-+GitHub" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoSchwantes&show_icons=true&theme=dark&hide=issues&show=prs_merged&locale=en&custom_title=ThiagoSchwantes" />
+  <img height=180 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dark&locale=en&langs_count=6&custom_title=Most+used+languages+-+GitHub" />
 </div>
