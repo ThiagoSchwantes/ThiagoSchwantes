@@ -1,5 +1,5 @@
 <p align="center">ERROR</p>
-<p align="center">Exception in thread "main" java.lang.InfiniteLoop at ThiagoSchwantes.programming(Profile.java:404)</p>
+<p align="center">Exception in thread "main" java.lang.InfiniteLoop at ThiagoSchwantes.learn(Skill.java:404)</p>
 
 <blockquote align="center">
   <p>"The Linux philosophy is 'Laugh in the face of danger'.<br/>
@@ -26,7 +26,7 @@
         
 ## 🔥 Github Stats
 <div>
-  <img align="right" width="38%" src="https://s1.zerochan.net/Bartholomew.Kuma.600.2544023.jpg"/>
+  <img align="right" width="38.5%" src="https://s1.zerochan.net/Bartholomew.Kuma.600.2544023.jpg"/>
   <div align="left">
     <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=ThiagoSchwantes&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
     <br>
@@ -53,5 +53,9 @@ public class Skills extends Programmer implements Backend {
   thiagoSchwantes.databases('MySQL', 'SQLite', 'Firebase', 'MongoDB');
   thiagoSchwantes.technologies('ASP.NET Core', 'React', 'Hibernate', 'Laravel', 'Next.js');
   thiagoSchwantes.inProgress('python', 'Kotlin', 'Spring');
+
+  while(true){
+    thiagoSchwantes.learn(something);
+  }
 }
 ```
