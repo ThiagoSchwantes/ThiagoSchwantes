@@ -35,7 +35,10 @@
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSchwantes&layout=compact&theme=dark&locale=en&langs_count=6&custom_title=Most+used+languages+-+GitHub" />
   </div>
 </div>
-<br/>
+<blockquote align=right>
+    <p>"Your word is a lamp for my feet, a light on my path."</p>
+    <cite>Psalm 119:105</cite>
+</blockquote>
 
 ```java
 import br.com.ThiagoSchwantes.Programmer;
