@@ -11,15 +11,36 @@
 
 <p>
   <details>
-    <summary>About me... (click here)</summary>
+    <summary>About me... (click here / en)</summary>
     <ul>
       <li><p>📭 Contact: <a href="mailto:thiagodemoura.contato@gmail.com">thiagodemoura.contato@gmail.com</a></p></li>
+       <li><p>
+         <img align="center" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-916919.png" />
+         LinkedIn: <a href="https://www.linkedin.com/in/thiago-schwantes-de-moura/">thiago-schwantes-de-moura</a></p></li>
        <li><p>
           <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
           GitLab: <a href="https://gitlab.com/ThiagoSchwantes">ThiagoSchwantes</a> (other projects and exercises)
       </p></li>
       <li>🎓 Studying: degree in Systems Analysis and Development (<cite>Positivo University<cite>)</li><br>
       <li>⌛ Right Now: looking for an internship</li>
+    </ul>
+  </details>
+</p>
+
+<p>
+  <details>
+    <summary>Sobre mim... (clique aqui / pt-br)</summary>
+    <ul>
+      <li><p>📭 Contato: <a href="mailto:thiagodemoura.contato@gmail.com">thiagodemoura.contato@gmail.com</a></p></li>
+       <li><p>
+         <img align="center" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-916919.png" />
+         LinkedIn: <a href="https://www.linkedin.com/in/thiago-schwantes-de-moura/">thiago-schwantes-de-moura</a></p></li>
+       <li><p>
+          <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+          GitLab: <a href="https://gitlab.com/ThiagoSchwantes">ThiagoSchwantes</a> (outros projetos e exercícios de lógica)
+      </p></li>
+      <li>🎓 Estudando: graduação em Análise e desenvolvimento de Sistemas (<cite>Universidade Positivo<cite>)</li><br>
+      <li>⌛ No momento: procurando por estágio</li>
     </ul>
   </details>
 </p>
